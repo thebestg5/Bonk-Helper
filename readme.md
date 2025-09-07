@@ -20,7 +20,8 @@ All tools are safe and cheat-free, just to enhance your gaming experience. Perfe
 
 To install **Bonk Helper**, click the link below. You need **Tampermonkey** installed in your browser:
 
-[**Install Bonk Helper**]https://greasyfork.org/es/scripts/548723-bonk-helper-tools-panel-by-thebestg5)
+[**Install Bonk Helper**](https://greasyfork.org/es/scripts/548723-bonk-helper-tools-panel-by-thebestg5)
 
 > Clicking the link will open Tampermonkey and ask you to install the script.
+
 
